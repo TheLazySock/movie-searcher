@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "movie searcher",
-    "slug": "movie searcher",
+    "slug": "movie-searcher",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
