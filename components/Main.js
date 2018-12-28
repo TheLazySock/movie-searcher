@@ -50,7 +50,7 @@ class Main extends React.Component {
         return (
             // <SideMenu menu={menu}>
                 <View style={styles.container}>
-                    <Text h2 style={styles.heading}>MovieFōn</Text>
+                    <Text h2 style={styles.heading}>OMDBSearcher</Text>
                     <View style={styles.topRow}>
                         <SearchBox search={search} pending={pending} changeText={changeText} searchText={searchText} />
                         <FavouriteButton isFavorite={isFavorite} favorite={favorite} searchText={searchText} />
